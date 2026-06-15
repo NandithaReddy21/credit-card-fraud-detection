@@ -14,6 +14,9 @@ Multiple machine learning algorithms were evaluated, including Logistic Regressi
 
 Dataset: Credit Card Fraud Detection Dataset
 
+Source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Features:
 
 * V1–V28: PCA-transformed features
