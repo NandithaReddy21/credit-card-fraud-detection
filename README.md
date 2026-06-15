@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection using Machine Learning
 
+![ROC Curve](images/roc_curve.png)
+
 ## Project Overview
 
 This project develops a machine learning-based fraud detection system for identifying fraudulent credit card transactions.
